@@ -21,7 +21,7 @@ export function Header() {
               About
             </Link>
             <a
-              href="https://github.com/code-capture"
+              href="https://github.com/nabinkhair42/code-capture"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm text-muted-foreground hover:text-foreground transition-colors"

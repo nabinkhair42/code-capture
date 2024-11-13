@@ -136,7 +136,7 @@ export function Toolbar({
       if (editorRef.current) {
         const dataUrl = await toPng(editorRef.current, {
           backgroundColor: background,
-          pixelRatio: 35,
+          pixelRatio: 10,
           style: {
             padding: `${padding}px`,
             borderRadius: "8px",
